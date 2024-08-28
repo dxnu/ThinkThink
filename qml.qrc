@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/1197280.jpg</file>
+        <file>assets/images/1209425.png</file>
+        <file>assets/images/1213108.jpg</file>
+        <file>assets/images/220302.png</file>
+        <file>assets/images/bg.jpg</file>
+        <file>assets/images/scrollbar.png</file>
+        <file>assets/qml/CategoryList.qml</file>
+        <file>assets/qml/main.qml</file>
+        <file>assets/qml/ScrollArea.qml</file>
+        <file>assets/qml/TitleBar.qml</file>
+        <file>assets/qml/VideoItem.qml</file>
+        <file>assets/qml/VideoLayout.qml</file>
+        <file>assets/qml/VideoPlayer.qml</file>
+        <file>assets/qml/AudioControl.qml</file>
+        <file>assets/qml/PlackbackRateControl.qml</file>
+        <file>assets/qml/PlaybackControl.qml</file>
+        <file>assets/qml/PlaybackSeekControl.qml</file>
+        <file>assets/qml/LoginWindow.qml</file>
+        <file>assets/images/Thinkthink.png</file>
+        <file>assets/qml/UploadVideo.qml</file>
+        <file>assets/qml/SearchVideos.qml</file>
+        <file>assets/qml/MyVideos.qml</file>
+        <file>assets/images/Mute_Icon.svg</file>
+        <file>assets/images/Speaker_Icon.svg</file>
+        <file>assets/qml/CommentWindow.qml</file>
+        <file>assets/qml/AdminButtonModel.qml</file>
+        <file>assets/qml/AdminArea.qml</file>
+        <file>assets/qml/UserInfoArea.qml</file>
+    </qresource>
+</RCC>
